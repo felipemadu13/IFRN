@@ -6,7 +6,7 @@ Resolução dos exercícios do curso de Sistemas para Internet do IFRN
 
 ## 2023.2 (1/6)
 ### Padrões Web (HTML e CSS)
-* Padrões Web
+* [Padrões Web](https://github.com/felipemadu13/IFRN/tree/c90aab06dd63770083d25349ce56c77d0ac77dac/padroes_web)
 
 ### Introdução à Lógica e Programação (Python)
-* [Introdução à Lógica e Programação](https://github.com/felipemadu13/IFRN/blob/5d024d8ab4582913f67a6a1d98d1e5d9c7067e2e/logica_programacao/README.MD)
+* [Introdução à Lógica e Programação](https://github.com/felipemadu13/IFRN/tree/c90aab06dd63770083d25349ce56c77d0ac77dac/logica_programacao)
