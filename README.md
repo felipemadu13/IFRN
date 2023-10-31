@@ -6,4 +6,4 @@ Resolução dos exercícios do curso de Sistemas para Internet do IFRN
 * Padrões Web
 
 ### Introdução à Lógica e Programação (Python)
-* Instrudção à Lógica e Programação
+* Introdução à Lógica e Programação
