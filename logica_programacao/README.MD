@@ -8,5 +8,5 @@
 ### Desafio 07
 * [d07.py](https://github.com/felipemadu13/IFRN/blob/455fc052346932f84579c0fcefbef4e5ab2d407b/logica_programacao/desafio_07/d07.py)
 ### Desafio 08
-* calcArea.py
-* programa.py
+* [calcArea.py](https://github.com/felipemadu13/IFRN/blob/f6fa317c2a3a9923158ab51aae540acd4f860a31/logica_programacao/desafio_08/calcArea.py)
+* [programa.py](https://github.com/felipemadu13/IFRN/blob/f6fa317c2a3a9923158ab51aae540acd4f860a31/logica_programacao/desafio_08/programa.py)
