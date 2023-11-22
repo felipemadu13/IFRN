@@ -7,3 +7,6 @@
 * [d06.py](https://github.com/felipemadu13/IFRN/blob/740b672d35b92e05bef3fcbc45378c597d71439e/logica_programacao/desafio_06/d06.py)
 ### Desafio 07
 * [d07.py](https://github.com/felipemadu13/IFRN/blob/455fc052346932f84579c0fcefbef4e5ab2d407b/logica_programacao/desafio_07/d07.py)
+### Desafio 08
+* calcArea.py
+* programa.py
